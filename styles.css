@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	border:0;
+}
 #btn{
 	background-color: black;
 	color: white;
